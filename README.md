@@ -8,11 +8,11 @@ The license is CC BY-SA, meaning that the recording may be copied, redistributed
 
 ## Metadata
 
-**Text**: The North Wind and Sun story (public domain Æsop's fable)
-**Variety**: East Midlands English (England)
-**Translation**: Translated to flow in native dialect from another variety of English
-**Translator**: Francis Tyers
-**Reader**: Francis Tyers
-**License**: CC BY-SA 3.0, https://creativecommons.org/licenses/by-sa/3.0/
-**Date of recording**: 2015-06-29
-**Place of recording**: Speech Production Laboratory in Bloomington, Indiana
+- **Text**: The North Wind and Sun story (public domain Æsop's fable)
+- **Variety**: East Midlands English (England)
+- **Translation**: Translated to flow in native dialect from another variety of English
+- **Translator**: Francis Tyers
+- **Reader**: Francis Tyers
+- **License**: CC BY-SA 3.0, https://creativecommons.org/licenses/by-sa/3.0/
+- **Date of recording**: 2015-06-29
+- **Place of recording**: Speech Production Laboratory in Bloomington, Indiana
